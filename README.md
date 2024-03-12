@@ -8,6 +8,8 @@ The application is built using C# and WPF, showcasing the Model-View-ViewModel (
 
 This project was created as part of a learning process, experimenting with various solutions and technologies to understand how to build a comprehensive desktop application. It serves as a practical application of programming concepts and techniques learned throughout the course of study.
 
+**Please Note:** This project is in its early stages and is considered to be a work in progress. Not all functionalities have been implemented, and the application is currently in a raw state. The development process was focused on practicing and mastering the skills needed to create WPF applications.
+
 ## Getting Started
 
 ### Dependencies
